@@ -1,7 +1,7 @@
 # google-drive-torrent
 
 Download torrents to your Google Drive directly
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 ## Installation
 
 1. Register this project as a client on the [Google API Console](http://console.developers.google.com)
